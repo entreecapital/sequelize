@@ -1,66 +1,94 @@
-<p align="center">
-  <img src="logo.svg" width="100" alt="Sequelize logo" />
-  <h1 align="center"><a href="https://sequelize.org">Sequelize</a></h1>
-</p>
+---
+description: PhantomBuster
+---
 
-[![npm version](https://badgen.net/npm/v/@sequelize/core)](https://www.npmjs.com/package/@sequelize/core)
-[![npm downloads](https://badgen.net/npm/dm/@sequelize/core)](https://www.npmjs.com/package/@sequelize/core)
-[![contributors](https://img.shields.io/github/contributors/sequelize/sequelize)](https://github.com/sequelize/sequelize/graphs/contributors)
-[![Open Collective](https://img.shields.io/opencollective/backers/sequelize)](https://opencollective.com/sequelize#section-contributors)
-[![sponsor](https://img.shields.io/opencollective/all/sequelize?label=sponsors)](https://opencollective.com/sequelize)
-[![Merged PRs](https://badgen.net/github/merged-prs/sequelize/sequelize)](https://github.com/sequelize/sequelize)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 🔴 LinkedIn limits
 
-Sequelize is an easy-to-use and promise-based [Node.js](https://nodejs.org/en/about/) [ORM tool](https://en.wikipedia.org/wiki/Object-relational_mapping) for [Postgres](https://en.wikipedia.org/wiki/PostgreSQL), [MySQL](https://en.wikipedia.org/wiki/MySQL), [MariaDB](https://en.wikipedia.org/wiki/MariaDB), [SQLite](https://en.wikipedia.org/wiki/SQLite), [DB2](https://en.wikipedia.org/wiki/IBM_Db2_Family), [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server), [Snowflake](https://www.snowflake.com/), [Oracle DB](https://www.oracle.com/database/) and [Db2 for IBM i](https://www.ibm.com/support/pages/db2-ibm-i). It features solid transaction support, relations, eager and lazy loading, read replication and more.
+{% hint style="warning" %}
+### _**maximum**_  _**number**_ /  _**per day**_
+{% endhint %}
 
-Would you like to contribute? Read [our contribution guidelines](./CONTRIBUTING.md) to know more. There are many ways to help! 😃
 
-## :computer: Getting Started
 
-Ready to start using Sequelize? Head to [sequelize.org](https://sequelize.org) to begin!
+<details>
 
-- [Our Getting Started guide for Sequelize 6 (stable)](https://sequelize.org/docs/v6/getting-started)
-- [Our Getting Started guide for Sequelize 7 (alpha)](https://sequelize.org/docs/v7/getting-started)
+<summary><strong>maximum number</strong> of <mark style="color:green;">messages you can send</mark> per day</summary>
 
-## :money_with_wings: Supporting the project
+❄️ _**Free account   -  80**_&#x20;
 
-Do you like Sequelize and would like to give back to the engineering team behind it?
+🔥️ _**Premium  account -  150**_
 
-We have recently created an [OpenCollective based money pool](https://opencollective.com/sequelize) which is shared amongst all core maintainers based on their contributions. Every support is wholeheartedly welcome. ❤️
+__
 
-## :pencil: Major version changelog
+</details>
 
-Please find upgrade information to major versions here:
+<details>
 
-- [Upgrade from v5 to v6](https://sequelize.org/docs/v6/other-topics/upgrade-to-v6)
-- [Upgrade from v6 to v7](https://sequelize.org/docs/v7/other-topics/upgrade-to-v7)
+<summary> maximum  number of <mark style="color:orange;">profiles you can scrape</mark> per day</summary>
 
-## :book: Resources
+❄️  _**Free**_ 80 profiles over 8 launches of 10 profiles each&#x20;
 
-- [Documentation](https://sequelize.org)
-- [Databases Compatibility Table](https://sequelize.org/releases/)
-- [Changelog](https://github.com/sequelize/sequelize/releases)
-- [Discussions](https://github.com/sequelize/sequelize/discussions)
-- [Slack](https://join.slack.com/t/sequelize/shared_invite/zt-1igt9hx8h-tGWU4AI1bRPvkRdEK5wnuQ)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/sequelize.js)
+🔥️ _**Premium**_ 150 profiles over 10 launches of 15 profiles each
 
-### :wrench: Tools
+</details>
 
-- [CLI](https://github.com/sequelize/cli)
-- [With TypeScript](https://sequelize.org/docs/v7/other-topics/typescript)
-- [Enhanced TypeScript with decorators](https://github.com/RobinBuschmann/sequelize-typescript)
-- [For GraphQL](https://github.com/mickhansen/graphql-sequelize)
-- [For CockroachDB](https://github.com/cockroachdb/sequelize-cockroachdb)
-- [Awesome Sequelize](https://sequelize.org/docs/v7/other-topics/resources/)
-- [For YugabyteDB](https://github.com/yugabyte/sequelize-yugabytedb)
+<details>
 
-### :speech_balloon: Translations
+<summary><strong>maximum  number  </strong><mark style="color:red;"><strong>search result extractions</strong></mark> per day</summary>
 
-- [English](https://sequelize.org) (Official)
-- [中文文档](https://github.com/demopark/sequelize-docs-Zh-CN) (Unofficial)
+❄️ _**Free**_ 100 pages/_**1000**_ results per day over 5 launches minimum&#x20;
 
-## :warning: Responsible disclosure
+🔥️ _**Premium**_ 150 pages/_**1500**_ results per day over 7 launches minimum
 
-If you have security issues to report, please refer to our
-[Responsible Disclosure Policy](./SECURITY.md) for more details.
+</details>
+
+<details>
+
+<summary>maximum  number <mark style="color:purple;"><strong>LinkedIn profile/company finders</strong></mark> per day</summary>
+
+
+
+</details>
+
+<details>
+
+<summary> maximum  number <mark style="color:red;"><strong>Extracting your contacts' URLs</strong></mark> per day</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>maximum  number <mark style="color:blue;">Post or article extractions</mark> per day</summary>
+
+❄️ _**Free**_ 100 posts over 10 launches of 10 posts each&#x20;
+
+🔥️ _**Premium**_ 200 posts over 10 launches of 20 posts each
+
+</details>
+
+<details>
+
+<summary>maximum  number  <mark style="color:green;">Liker or commenter extractions</mark>  <mark style="color:blue;"></mark> per day</summary>
+
+🔥️ _**Premium**_  10 posts over 10 launches of 1 post each
+
+LinkedIn only gives you access to so many likers on popular (1000+ likes) posts, and only the first 3000 likes will be accessible.
+
+</details>
+
+<details>
+
+<summary>maximum  number  <mark style="color:red;">Group member extractions</mark>  <mark style="color:blue;"></mark> per day</summary>
+
+❄️ _**Free**_ 1 group (or 2500 group members) per day
+
+🔥️ _**Premium**_ 1 group (or 2500 group members) per day
+
+</details>
+
+
+
+{% embed url="https://phantombuster.com/blog/guides/linkedin-automation-rate-limits-2021-edition-5pFlkXZFjtku79DltwBF0M" %}
+
